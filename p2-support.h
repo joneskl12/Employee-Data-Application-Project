@@ -2,9 +2,9 @@
 //
 // File           : p2-support.h
 // Description    : Header file for project2 
-// Author         : ***Type Author Name ***
-// Date           : ***Type the date Date you completed***
-// Notes          : ***Type bug fixes/other with dates for your records 
+// Author         : ***Kyle Jones ***
+// Date           : ***11/8/2023***
+// Notes          : ***No current notes to date.*** 
 
 #ifndef P2Header //To prevent double inclusion of header
 #define P2Header //To prevent double inclusion of header
